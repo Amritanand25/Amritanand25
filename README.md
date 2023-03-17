@@ -1,11 +1,11 @@
-### Hi there 👋 This is Amrit Anand
+### 👋 Hello everyone, Amrit Anand here!
 
 
 <!--**Amritanand25/Amritanand25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 👋 Hello everyone, Amrit Anand here! I'm passionate about React and constantly working on improving my skills as a developer.
+- 👋 I'm passionate about React and constantly working on improving my skills as a developer.
 - 🔭 Currently, I'm working on React projects to showcase my abilities and push my limits as a developer.
 - 🌱 In my spare time, I'm learning Node.js to add to my already extensive knowledge base and take on bigger challenges.
 - 👯 Collaboration is key to achieving success, and I'm always open to working with other talented developers on big projects.
