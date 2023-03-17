@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Nodejs
-- 🌱 I’m currently learning full stack developer
-- 👯 I’m looking to collaborate on big project.
-- 🤔 I’m looking for help with professional developers.
-- 💬 Ask me about any thing on linkedin.
-- 📫 How to reach me: https://www.linkedin.com/in/amrit-anand-496298169/
-- 😄 Pronouns: Love to go beyond barriers to possibilities, & Passionate curiosity for Learning new things.
-- ⚡ Fun fact: playing games
+- 👋 Hello everyone, Amrit Anand here! I'm passionate about React and constantly working on improving my skills as a developer.
+- 🔭 Currently, I'm working on React projects to showcase my abilities and push my limits as a developer.
+- 🌱 In my spare time, I'm learning Node.js to add to my already extensive knowledge base and take on bigger challenges.
+- 👯 Collaboration is key to achieving success, and I'm always open to working with other talented developers on big projects.
+- 🤔 While I'm a confident developer, I know that there is always more to learn. I'm seeking help from experienced professionals to help me grow and become a better developer.
+- 💬 Got any questions about my experience, projects, or anything else? Feel free to reach out to me on LinkedIn!
+- 📫 You can connect with me and stay updated on my latest projects by checking out my LinkedIn profile: https://www.linkedin.com/in/amrit-anand-496298169/
+- 😄 I'm always excited to push beyond barriers and take on new possibilities, fueled by my passion for learning new things.
 
 <summary>📈 My GitHub Stats</summary>
 
