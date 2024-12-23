@@ -40,4 +40,4 @@ A Full Stack JavaScript Developer passionate about **React**, **Node.js**, and t
 ### 📫 Connect with Me
 
 - **LinkedIn**: [Amrit Anand](https://www.linkedin.com/in/amrit-anand-496298169/)
-- **Portfolio**: [amritanand.dev](https://www.amritanand.dev)
+- **Portfolio**: [amritanand]([https://www.amritanand.dev](https://portfolio-delta-lemon-54.vercel.app/))
