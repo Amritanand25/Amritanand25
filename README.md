@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 👋 I'm passionate about React and constantly working on improving my skills as a developer.
+- 👋 I'm passionate about Javascript and constantly working on improving my skills as a developer.
 - 🔭 Currently, I'm working on React projects to showcase my abilities and push my limits as a developer.
 - 🌱 In my spare time, I'm learning Node.js to add to my already extensive knowledge base and take on bigger challenges.
 - 👯 Collaboration is key to achieving success, and I'm always open to working with other talented developers on big projects.
