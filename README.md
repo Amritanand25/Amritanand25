@@ -18,3 +18,48 @@ Here are some ideas to get you started: -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amritanand25&show_icons=true&theme=gotham" alt="amritanand25" />
 
+## Hi there 👋, I'm Vikash Kumar
+
+A Full Stack Software Developer at [TrakInvest](https://www.trakinvest.com)
+
+🔭 I’m currently working as an **Associate Software Engineer** at TrakInvest  
+🌱 I’m currently learning **React Native**  
+💬 Ask me about anything  
+😄 Pronouns: He/Him/They  
+⚡ Fun fact: **Programmers never die!** 👾
+
+---
+
+### 📊 My GitHub Stats
+
+![Vikash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-viku&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 🔧 Languages & Tools
+
+- 🌍 **Languages**: Python, JavaScript, TypeScript, C++
+- ⚙️ **Tools**: Git, GitHub, Docker, Kubernetes, VS Code
+- 💻 **Frameworks**: React, Node.js, Express, React Native, Django
+
+---
+
+### 🌱 My Contributions
+
+![Vikash's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=kr-viku&theme=radical)
+
+---
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-viku&theme=radical&count_private=true&layout=compact)
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn**: [Vikash Kumar](https://www.linkedin.com/in/vikash-kumar-xxxx/)
+- **Twitter**: [@VikashKumarDev](https://twitter.com/VikashKumarDev)
+- **Portfolio**: [vikashkumar.dev](https://www.vikashkumar.dev)
+
+
